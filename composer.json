@@ -1,0 +1,18 @@
+{
+  "name": "jberenschot/string-calculator",
+  "description": "TDD Kata",
+  "authors": [
+    {
+      "name": "Jeroen Berenschot"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "^4"
+  }
+}
